@@ -1,4 +1,5 @@
-# Customer Feedback Analysis and AI-Powered Customer Support
+# 🧴 Customer Feedback Analysis & AI-Powered Customer Support
+### Transforming Customer Reviews into Actionable Insights using Python & Google Gemini AI
 
 ## Project Overview
 
