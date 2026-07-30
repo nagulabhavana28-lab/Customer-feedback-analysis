@@ -1,10 +1,11 @@
 # 🧴 Customer Feedback Analysis & AI-Powered Customer Support
 ### Transforming Customer Reviews into Actionable Insights using Python & Google Gemini AI
 
-## Project Overview
+## 📖 Project Overview
 
-This project analyzes customer reviews of skincare products using Python. The workflow includes data cleaning, exploratory data analysis, rule-based filtering to identify critical reviews, complaint keyword analysis, data visualization, and AI-generated customer support emails using Google Gemini.
+Customer feedback provides valuable insights into product quality, customer satisfaction, and areas for improvement. Analyzing large volumes of customer reviews manually is time-consuming and inefficient.
 
+This project automates the analysis of skincare product reviews using **Python** and **Google Gemini AI**. It cleans and preprocesses customer review data, identifies critical reviews, extracts common complaint keywords, visualizes customer feedback trends, and generates personalized AI-powered customer support emails. The project demonstrates an end-to-end data analytics workflow combined with generative AI to help businesses respond to customer concerns more efficiently.
 ---
 
 ## Objective
